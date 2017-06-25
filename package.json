@@ -1,0 +1,18 @@
+{
+  "name": "soundbox",
+  "version": "0.0.1",
+  "description": "A try bot discord",
+  "main": "sound.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MathieuFan"
+  },
+  "author": "Mathieu Fan",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  }
+}

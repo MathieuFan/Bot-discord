@@ -1,7 +1,7 @@
 {
   "name": "soundbox",
   "version": "0.0.1",
-  "description": "A try bot discord",
+  "description": "A soundbox discord",
   "main": "sound.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
